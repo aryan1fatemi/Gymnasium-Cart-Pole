@@ -1,5 +1,5 @@
 # Gymnasium-Cart-Pole
-
+![Alt Text](cart-pole.gif)
 ## About Gymnasium
 Gymnasium is an open-source Python library maintained by the Farama Foundation. It offers a rich collection of pre-built environments for reinforcement learning agents, a standard API for communication between learning algorithms and environments, and a standard set of environments compliant with that API. 
 
